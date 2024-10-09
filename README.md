@@ -10,7 +10,7 @@ This is a therapy chatbot called Neo! Designed to provide supportive conversatio
 # Technologies Used
 <li><strong>Python</strong>: Core programming language for the chatbot's logic.</li>
 <li><strong>Natural Language Toolkit (NLTK)</strong>: For processing and analyzing text data.</li>
-<li><strong>TensorFlow</strong> (optional): Used if you want to incorporate machine learning models.</li>
+<li><strong>TensorFlow</strong>: Used to incorporate machine learning models.</li>
 <li><strong>Regex</strong>: For parsing user inputs.</li>
   
 # Setup Instructions
