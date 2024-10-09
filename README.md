@@ -31,3 +31,4 @@ This is a therapy chatbot called Neo! Designed to provide supportive conversatio
 
 # Sample Output 
 Here's a glimpse of Neo at work!
+[![Watch the video](https://raw.githubusercontent.com/krupas23/Therapy-Chatbot/main/thumbnail.jpg)](https://raw.githubusercontent.com/krupas23/Therapy-Chatbot/main/neo_video.mp4)
