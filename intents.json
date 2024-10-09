@@ -1,0 +1,127 @@
+{"intents" : [
+    {"tags" : "greetings",
+     "patterns" : ["hello","hi", "hey", "hey there", "greetings", "what's up?", "how is it going?"],
+     "responses" : ["Hello!", "Hey, what's your name?", "Hola", "Hey, all good?", "Hey, how are you?", "Hey there!", "Hello there!"]
+    },
+{"tags" : "birthday",
+    "patterns" : ["happy birthday","it's my birthday", "I celebrated my birthday", "my birthday", "I turn years old today"],
+    "responses" : ["Wishing you a very happy birthday", "Happy Birthday to you, how can I help today?"]
+    },
+{"tags" : "bore",
+    "patterns" : ["I am bored", "nothing interests me", "I feel like doing nothing", "everything seems boring to me"],
+    "responses" : ["Why don't you listen to some good music to drive your boredom hues away?","Are you in the mood to watch a video?", "Are you in a mood to read a story?"]
+    },
+{"tags" : "fight",
+    "patterns" : ["I had fight with my boss","fight", "I had a fight with my friend", "I fought with my mom", "I had an argument" ],
+    "responses" : ["Allow your mind to cool down by taking a walk or spending some time alone. Usually, you can approach the conflict with a renewed attitude once you clear your head. Here’s something that will surely help you: https://youtu.be/lJCUC0mRkPo"]
+    },
+{"tags" : "School",
+    "patterns" : ["School stresses me out","College is hard", "I hate college", "I have so many assignments", "School work", "Projects are incomplete", "I have to so much pending school work"],
+    "responses" : ["Don't procrastinate your work and try completing it immediately!", "It's okay we all have hard days, relax a bit and then get back to your work", "Stop and take a deep breath—everything's going to be okay. Watch this video, it might help you feel better: https://youtu.be/Wh5HyJ1rxzk"]
+    },
+{"tags" : "thank you",
+    "patterns" : ["thanks","thank you", "thanks a lot", "You are great", "I am so relieved I have you", "You are amazing", "I am thankful"],
+    "responses" : ["Glad to help you!"]
+    },
+
+    {"tags" : "name",
+    "patterns": ["My name is", "what is your name?"],
+    "responses": ["Hey, I am Neo. Lets be friends?", "I am Neo, nice to meet you"]
+    },
+
+    {"tags": "youtube",
+    "patterns":["youtube videos"],
+    "responses":["Hello, check out this video: https://youtu.be/mdybtoge_mM"]
+    },
+
+    {"tags": "anger",
+    "patterns": ["idiot", "People are awful","i am so angry", "i want to kill them", "i feel like throwing things", "i will smash his head", "how can they do me like that?", "i am raged","I hate everything", "I hate my life", "The day is so disgusting", "angry", "kill", "raged", "punch", "shout", "stupid", "not done", "mad","irked","hate"],
+   
+ "responses" : ["Take a deep breath and relax, tell me what happened?", 
+    "You might be feeling tense all over, so try taking a deep breath and we can look into this feeling together, shall we? Here's something that will surely calm you down: https://youtu.be/C1N4f1F0vDU", 
+    "People often deal with this when something they're trying to do is blocked. Things will get better, it does. Here's something that will surely calm you down: https://youtu.be/BsVq5R_F6RA",
+    "It's okay to feel this way but now it's time to move on from this and focus on what's coming up. Here’s something that will surely help you: https://youtu.be/PmQ2FJBJBRc",
+    "Sometimes things don't go according to our plan and people misunderstand you. Don't let it affect you so much. Here’s something that will surely help you: https://youtu.be/PmQ2FJBJBRc",
+    "Talk about this to someone and let your anger cool down, don't keep it suppressed. Here’s something that will surely help you: https://youtu.be/QAsJvKsd2Xk",
+    "You can spam here as long as you want, I am all ears. You are safe here to release all the tension that has built. Here’s something that will surely calm you down: https://youtu.be/BsVq5R_F6RA",
+    "Have a glass of water, lie down for a while. Relax and then we can chat about this again after a while.Here’s something that will surely calm you down: https://youtu.be/BsVq5R_F6RA",
+    "Write it down somewhere with a pen, scribble about it for a while in your diary. Here’s something that will surely calm you down: https://youtu.be/BsVq5R_F6RA"]
+    },
+
+    {"tags" : "joy",
+    "patterns" : ["I am over the moon", "i am so happy", "i feel so good", "my day was so good", "I won a prize", "i had so much fun today", "i am lucky", "I am so excited", "happiness", "overjoyed", "elated", "awesome", "surprise", "win", "good"],
+    "responses" : ["Oh that is amazing, I am sure you must be happy.", 
+    "It feels good, doesn't it ?",
+    "You could share this joy with others too!", 
+    "That is great, keep your charm up",
+    "You should celebrate, it will make you more happy.",
+    "Maintain your happiness by taking care of yourself",
+    "You can use this gratitude and set healthy goals for yourself.",
+    "Don't hold yourself back, enjoy this, you deserve it."]
+    },
+
+    {"tags" : "neutral",
+    "patterns" : ["I don't know how I feel", "I don't know what to do", "Its how it is"],
+    "responses": ["Okay, do you think we can do anything about this?",
+    "How do you feel about it?",
+    "Does this affect you directly?",
+    "Try to think about this again and determine what are your real feelings about this.",
+    "If this does not make a difference in your life directly then you should focus on other important things.",
+    "Is there anything that you can do in this situation?",
+    "You can try studying this situation and take a stand."
+    ]},
+
+    {"tags" : "fear",
+    "patterns" : ["I am scared", "fear", "panic", "nervous", "wheezing", "shiver"],
+    "responses" : ["Take a moment to close your eyes and imagine a place of safety and calm. It could be a picture of you walking on a beautiful beach, or any childhood memory.", "https://youtu.be/uV_CGpMsEhY", 
+    "Let the positive feelings soothe you until you feel more relaxed.", "Relax,there's no need to panic, everything is going to be fine. Here's something that can help you feel better: https://youtu.be/K7hYf0yIK5w", 
+    "Sharing fears takes away a lot of their scariness. You should share it with your loved once.", "It's normal to feel this way, don't be afraid. Everything is going to be fine. Meanwhile watch this video that may make you understand things better: https://youtu.be/GDjwfFmXwfE", 
+    "It's difficult to think clearly when you're flooded with fear or anxiety. The first thing to do is take time out so you can physically calm down. Watch this video: https://youtu.be/TOzJRrGdMCs", 
+    "Place the palm of your hand on your stomach and breathe slowly and deeply.", "Here's something that might help you feel better: https://youtu.be/VZje6WgIhak", 
+    "Uncover fearlessness through yoga's methods. Practice Yoga for at least 30 min daily.",
+    "Face your fear. Put fear into perspective."
+    ]},
+
+     {"tags": "sadness",
+    "patterns" : ["I am sad", "mood off", "sick", "bad day", "worse","anxious","I feel nothing","emptyness","emotional","sentimental","miserable","dejected","sorrow","despondent","gloomy","grief"],
+    "responses": ["Jot down your feelings, thoughts to clearly understand them. Here's something that might help: https://youtu.be/fs7MSbkNhF4" ,
+    "Create 'me-time' for yourself and do activities that make you happy. Meanwhile, watch this video: https://youtu.be/h-3nt92UFZo" ,
+    "Start doing physical exercises such as cycling and jogging to eradicate negative thoughts. Or take interest in activities that refreshes your mind. Here's something for you to watch: https://youtu.be/ZBOZKSvkr-o" ,
+    "Spend quality time with your close friends and family.Being around loved ones helps lighten up the stress and sadness vanishes. Here's something for you to watch: https://youtu.be/NmlWK-zCo6M",
+    "Better times are coming, this is just a phase. Feeling like this is absolutely okay. It will get better as the time passes by. Meanwhile, watch this video: https://youtu.be/pRynMDAKrvI" ,
+    "It's not the end of the world, new things, new opportunities, new experiences are to come your way. Stand in there bud!",
+    "How about you have your favorite dessert tonight? Try doing your most favorite things with people you love around.",
+    "You are more than your thoughts, you are more than what you feel. You are you when you are not thinking and just being there."
+    ]},
+
+
+
+    {"tags": "depression",
+    "patterns":["suicide", "die", "take my life", "don't feel like living anymore", "i am ill", "it hurts", "drink alcohol", "depressed", "suicidal", "I want to die", "Take poison"],
+    "responses":["Please talk about this to someone or consult a psychiatrist. Watch this video, I hope it helps meanwhile: https://www.youtube.com/watch?v=Bk0lzv8hEU8 ",
+    "I understand why you feel this way, try to think about all the good things you are letting go of. Meanwhile watch this video: https://www.youtube.com/watch?v=sWfNosruPPw ",
+"Be more active. Take up some form of exercise. Exercise can help lift your mood. If you haven't exercised for a while, start gently by walking for 20 minutes every day. Watch this video that might help you: https://www.youtube.com/watch?v=alke79UiljQ",
+ "Paying more attention to the present moment can improve your mental wellbeing. It can help you enjoy life more and understand yourself better. Meanwhile watch this video: https://www.youtube.com/watch?v=7DoQMnmo0v8",
+"Look for the positives in life, and things for which you're grateful. Try writing down 3 things that went well, or for which you're grateful, at the end of every day. Meanwhile watch this video: https://youtu.be/MPWw8miPQ3c"
+
+    ]},
+
+    {"tags": "goodbye",
+    "patterns": ["cya", "goodbye", "bye", "later", " gotta go", "leaving", "see you" , "ciao", "adios"],
+    "responses" : ["Goodbye!", "Talk to you later!", "Wonderful chat, see you soon!"
+    ]},
+
+    {"tags": "other",
+    "patterns": [""],
+    "responses":["Can you elaborate why do you feel so?", "Why do you think you feel this way", "Sorry, but can you tell me something more about this?","Sorry I don’t seem to understand. Please tell me something more so I can help you better."]
+     },
+
+    {"tags" : "health issues",
+    "patterns": ["claustrauphobic", "nausea","headache"],
+    "responses":["Can you elaborate why do you feel so?", "Why do you think you feel this way", "Sorry, but can you tell me something more about this?","Sorry I don’t seem to understand. Please tell me something more so I can help you better."]
+    }
+
+]
+
+}
+

@@ -1,0 +1,73 @@
+{"intents" : [
+    {"tags" : "greetings",
+    "patterns" : ["hello","hi", "hey", "hey there", "greetings", "what's up?", "how is it going?"],
+    "responses" : ["Hello!", "Hey, what can I do for you?", "Hola", "Hey, all good?", "Hey, how are you?", "Hey there!", "Hello there!"]
+    },
+
+    {"tags": "anger",
+    "patterns": ["He is an idiot", "People are awful","i am so angry", "i want to kill them", "i feel like throwing things", "i will smash his head", "how can they do me like that?", "i am raged", "The day is so disgusting"],
+    "responses" : ["Take a deep breath and relax, tell me what happened?", 
+    "You might be feeling tense all over, so try taking a deep breath and we can look into this feeling together, shall we?", 
+    "People often deal with this when something they're trying to do is blocked. Things will get better, it does.",
+    "Its okay to feel this way but now its time to move on from this and focus on what's coming up.",
+    "Sometimes things don't go according to our plan and people misunderstand you. Don't let it affect you so much.",
+    "Talk about this to someone and let your anger cool down, don't keep it supressed.",
+    "You can spam here as long as you want, I am all ears. You are safe here to release all the tension that has built.",
+    "Have a glass of water, lie down for a while. Relax and than we can chat about this again after a while.",
+    "Write it down somewhere with pen, scribble about it for a while in your diary."]
+    },
+
+    {"tags" : "joy",
+    "patterns" : ["I am over the moon", "i am so happy", "i feel so good", "my day was so good", "I won a prize", "i had so much fun today", "i am lucky", "I am so excited"],
+    "responses" : ["Oh that is amazing, I am sure you must be happy.", 
+    "It feels good, doesn't it ?",
+    "You could share this joy with others too!", 
+    "That is great, keep your charm up",
+    "You should celebrate, it will make you more happy.",
+    "Maintain your happiness by taking care of yourself",
+    "You can use this gratitude and set healthy goals for yourself.",
+    "Don't hold yourself back, enjoy this, you deserve it."]
+    },
+
+    {"tags" : "neutral",
+    "patterns" : ["I don't know how I feel"],
+    "responses": ["Okay, do you think we can do anything about this?",
+    "How do you feel about it?",
+    "Does this affect you directly?",
+    "Try to think about this again and determine what are your real feelings about this.",
+    "If this does not make a difference in your life directly then you should focus on other important things.",
+    "Is there anything that you can do in this situation?",
+    "You can try studyng this situation and take a stand."
+    ]},
+
+    {"tags" : "fear",
+    "patterns" : ["I am scared"],
+    "responses" : ["Take a moment to close your eyes and imagine a place of safety and calm. It could be a picture of you walking on a beautiful beach, or any childhood memory.",
+    "Let the positive feelings soothe you until you feel more relaxed.",
+    "Sharing fears takes away a lot of their scariness. You should share it with your loved once.",
+    "It's difficult to think clearly when you're flooded with fear or anxiety. The first thing to do is take time out so you can physically calm down.",
+    "Place the palm of your hand on your stomach and breathe slowly and deeply.",
+    "Uncover fearlessness through yoga's methods. Practise Yoga for atleast 30 min daily.",
+    "Face your fear. Put fear into perspective."
+    ]},
+
+    {"tags": "sadness",
+    "patterns" : ["I am sad"],
+    "responses": ["Jot down your feelings, thoughts and challenge to clearly understand them.",
+    "Create 'me-time' for yourself and do activities that make you happy.",
+    "Start doing physical excercises such as cycling and jogging to eradicate negative thoughts.",
+    "Spend quality time with your close friends and family.",
+    "Better times are coming, this is just a phase. Feeling like this is absolutely okay. It will get better as the time passes by.",
+    "Its not the end of the world, new things, new opportunities, new experiences are to come your way. Stand in there bud!",
+    "How about you have your favourite dessert tonight? Try doing your most favourite things with people you love around.",
+    "You are more than your thoughts, you are more than what you feel. You are you when you are not thinking and just being there."
+    ]},
+
+    {"tags": "goodbye",
+    "patterns": ["cya", "goodbye", "bye", "talk to you later", "i gotta go", "i am leaving", "see you","have a good day" , "cao", "adios"],
+    "responses" : ["Goodbye!", "Talk to you later!", "Wonderful chat, see you soon!"
+    ]}
+
+]
+
+}
