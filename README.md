@@ -30,5 +30,5 @@ This is a therapy chatbot called Neo! Designed to provide supportive conversatio
   You can modify the predefined responses and emotional triggers in the <code>responses.json</code> file to better tailor the chatbot for specific use cases.
 
 # Sample Output 
-Here's a glimpse of Neo at work!
+Here's a glimpse of Neo at work! Click on the image to download the video.
 [![Watch the video](https://raw.githubusercontent.com/krupas23/Therapy-Chatbot/main/thumbnail.jpg)](https://raw.githubusercontent.com/krupas23/Therapy-Chatbot/main/neo_video.mp4)
